@@ -1,24 +1,9 @@
-## Hi there 👋
-
-<!--
-**yousefbassem95-lang/yousefbassem95-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div align="center">
+<div align="center">
 
 # J0J0M0J0
 ### 🛡️ Cybersecurity Researcher | 🧠 AI Red Team Specialist | 🎨 Terminal Artist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+AI+Cyber+Arsenals;Exploiting+Neural+Networks;Designing+Terminal+Art;Protecting+the+Galactic+Core)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+AI+Cyber+Arsenals;Exploiting+Neural+Networks;Designing+Terminal+Art;Protecting+the+Galactic+Core)
 
 [![GitHub followers](https://img.shields.io/github/followers/yousefbassem95-lang?label=Follow&style=social)](https://github.com/yousefbassem95-lang)
 [![Views](https://komarev.com/ghpvc/?username=yousefbassem95-lang&color=red)](https://github.com/yousefbassem95-lang)
@@ -43,6 +28,8 @@ Building the next generation of **AI-powered cybersecurity arsenals** and **high
     </td>
   </tr>
   </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbassem95-lang&theme=dark&background=151515&ring=F70000&fire=F70000&currStreakNum=fff&currStreakLabel=79ff97&sideNums=fff" />
 </div>
 
 ---
@@ -100,8 +87,6 @@ Public utilities and contributions to the open-source community.
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 <br>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yousefbassem95-lang&theme=darkhub&no-frame=true&no-bg=true)
 
 **made by J0J0M0J0**
 
