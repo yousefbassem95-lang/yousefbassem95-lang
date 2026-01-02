@@ -3,7 +3,7 @@
 # J0J0M0J0
 ### 🛡️ Cybersecurity Researcher | 🧠 AI Red Team Specialist | 🎨 Terminal Artist
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+AI+Cyber+Arsenals;Exploiting+Neural+Networks;Designing+Terminal+Art;Protecting+the+Galactic+Core)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+AI+Cyber+Arsenals;Exploiting+Neural+Networks;Designing+Terminal+Art;Protecting+the+Galactic+Core)
 
 [![GitHub followers](https://img.shields.io/github/followers/yousefbassem95-lang?label=Follow&style=social)](https://github.com/yousefbassem95-lang)
 [![Views](https://komarev.com/ghpvc/?username=yousefbassem95-lang&color=red)](https://github.com/yousefbassem95-lang)
@@ -18,18 +18,10 @@ Building the next generation of **AI-powered cybersecurity arsenals** and **high
 <br>
 
 <div align="center">
-  <table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yousefbassem95-lang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=transparent" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbassem95-lang&layout=compact&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-    </td>
-  </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefbassem95-lang&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbassem95-lang&layout=compact&theme=dark&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbassem95-lang&theme=dark&background=151515&ring=F70000&fire=F70000&currStreakNum=fff&currStreakLabel=79ff97&sideNums=fff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbassem95-lang&theme=dark&hide_border=true" />
 </div>
 
 ---
