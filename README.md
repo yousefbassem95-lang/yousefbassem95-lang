@@ -23,7 +23,7 @@ A constellation of elite tools designed for red teaming, auditing, and network d
 | 🌑 | **[LUNA](https://github.com/yousefbassem95-lang/LUNA)** | Automated WiFi Penetration | 🟢 Public | **Active** |
 | ☀️ | **RA** | Admin Control & Audit | 🔴 **Classified** | **Restricted** |
 | 🪐 | **JUPITER** | Network Storm Simulator | 🔴 **Classified** | **Restricted** |
-| 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | **Building** |
+| 🏹 | **[ORION](https://github.com/yousefbassem95-lang/ORION)** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | **Building** |
 
 > ⚠️ **Authorized Personnel Only.** RA and JUPITER are restricted tools.
 
