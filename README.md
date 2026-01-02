@@ -8,21 +8,39 @@
 [![GitHub followers](https://img.shields.io/github/followers/yousefbassem95-lang?label=Follow&style=social)](https://github.com/yousefbassem95-lang)
 [![Views](https://komarev.com/ghpvc/?username=yousefbassem95-lang&color=red)](https://github.com/yousefbassem95-lang)
 
----
-
-### 🚀 Mission
-Building the next generation of **AI-powered cybersecurity arsenals** and **high-fidelity terminal interfaces**.
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefbassem95-lang&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbassem95-lang&layout=compact&theme=dark&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbassem95-lang&theme=dark&hide_border=true" />
-</div>
+```text
+              #####                    ****                     #####   
+              #######                 ******                   ######             
+          ####   ##########           ******             ##########  ###          
+         #####           #######       ****        ########         #####        
+         #####                #####             #####               #####        
+           #####################  #   #####     # ######################         
+                              ###   #########   ###                            
+                       #######    ############      ######                       
+                     ##########   #############    #########                     
+                   ###########    #############    ###########                   
+                 ######       ##  ############# ##         ######                 
+               #####        #####  ###########  ####         #####               
+             ****#        *******#  #########   #******         #****             
+           ****         **+++***     ######      ***+++***        ****           
+         ***          *++++*+  ***  *+++++++*  *** ++++++**          ***         
+       **           *+++++    *+++  ++++++++   +++*    ++++++*          **       
+                  +++++       +=+    +=====+    +=+      +++++*                  
+                ++++         +=+     +=====+     +=+        ++++*                
+              ++==          +=+      +=====+      +=+          ==++              
+            ++=            ===       =----=        ===            ==+            
+                           ==        =----=         ==              =++         
+                          ==         =----=          ==                          
+                         ==          =-::-=           ==                         
+                         =            =::=             =                         
+                        =             =::=              =                        
+                       -              =..=               -                       
+                      :               :.:                 :                       
+                                      :::                                       
+                                      :::                                        
+                                      ---                                        
+                                      |||
+```
 
 ---
 
