@@ -1,71 +1,71 @@
-<div align="center">
-
-# J0J0M0J0
-### 🛡️ Cybersecurity Researcher | 🧠 AI Red Team Specialist | 🎨 Terminal Artist
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+AI+Cyber+Arsenals;Exploiting+Neural+Networks;Designing+Terminal+Art;Protecting+the+Galactic+Core)
-
-[![GitHub followers](https://img.shields.io/github/followers/yousefbassem95-lang?label=Follow&style=social)](https://github.com/yousefbassem95-lang)
-[![Views](https://komarev.com/ghpvc/?username=yousefbassem95-lang&color=red)](https://github.com/yousefbassem95-lang)
-
-<img width="488" height="496" alt="Screenshot from 2026-01-02 20-35-19" src="https://github.com/user-attachments/assets/cccbf1da-10f9-4796-8224-66b1f2828def" />
-
----
-
-## 🌌 The MilkyWay Galaxy Project
-**"Advanced Cyber Warfare & Defense Systems"**
+# 🌌 The MilkyWay Galaxy Project
+### "Advanced Cyber Warfare & Defense Systems"
 
 A constellation of elite tools designed for red teaming, auditing, and network domination.
 
 | Symbol | Project | Type | Classification | Status |
-|:---:|:---|:---|:---:|:---:|
-| ♂️ | **[MARS](https://github.com/yousefbassem95-lang/MARS)** | AI Red Team Automation | 🟢 Public | **Active** |
-| 🌑 | **[LUNA](https://github.com/yousefbassem95-lang/LUNA)** | Automated WiFi Penetration | 🟢 Public | **Active** |
-| ☀️ | **RA** | Admin Control & Audit | 🔴 **Classified** | **Restricted** |
-| 🪐 | **JUPITER** | Network Storm Simulator | 🔴 **Classified** | **Restricted** |
-| 🏹 | **[ORION](https://github.com/yousefbassem95-lang/ORION)** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | **Building** |
-
-> ⚠️ **Authorized Personnel Only.** RA and JUPITER are restricted tools.
+| :---: | :--- | :--- | :---: | :---: |
+| ♂️ | **MARS** | AI Red Team Automation | 🟢 Public | `Active` |
+| 🌑 | **LUNA** | Automated WiFi Penetration | 🟢 Public | `Active` |
+| 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | `Building` |
+> ⚠️ Some projects are classified and not for public use.
 
 ---
 
-## 🌲 THE WOODS
-**"Creative Tools & Utility Software"**
+# 🧠 AI Brains & Developments
+### "Core Intelligence & Advanced Cognitive Models"
+
+Architecting the next generation of artificial intelligence and cognitive systems.
+
+| Symbol | Project | Description | Status |
+| :---: | :--- | :--- | :---: |
+| 🪐 | **Jupiter** | *No description available.* | `Under Development` |
+| 🔱 | **Neptune** | *No description available.* | `Under Development` |
+| 💀 | **Pluto** | *No description available.* | `Under Development` |
+
+---
+
+# 📜 Artifacts
+### "Legendary Items & Esoteric Technology"
+
+A collection of powerful and unique digital artifacts with extraordinary capabilities.
+
+| Symbol | Project | Description | Status |
+| :---: | :--- | :--- | :---: |
+| 🐉 | **Dragon Talisman** | *No description available.* | `Under Development` |
+| 🎭 | **Blue Mask** | *No description available.* | `Under Development` |
+| 🔑 | **Red Key** | *No description available.* | `Under Development` |
+
+---
+
+# 🧪 Elixirs and Cures
+### "Digital Remedies & System Enhancements"
+
+Specialized solutions and fixes for complex digital ailments.
+
+*No projects currently listed.*
+
+---
+
+# 🌲 THE WOODS
+### "Creative Tools & Utility Software"
 
 Experimental projects, visual arts, and earthly utilities grown from code.
 
 | Symbol | Project | Description | Status |
-|:---:|:---|:---|:---:|
-| 🍇 | **[GRAPES](https://github.com/yousefbassem95-lang/grapes)** | **Neural AI ASCII Art Generator**<br>High-fidelity image/video to ASCII converter. | 🟢 **Active** |
+| :---: | :--- | :--- | :---: |
+| 🍇 | **GRAPES** | **Neural AI ASCII Art Generator**<br/>High-fidelity image/video to ASCII converter. | 🟢 `Active` |
 
 ---
 
-## 🌍 MANKIND
-**"Open Source Contributions & General Tools"**
+# 🌍 MANKIND
+### "Open Source Contributions & General Tools"
 
 Public utilities and contributions to the open-source community.
 
 | Project | Description | Status |
-|:---|:---|:---:|
-| **[MIRA](https://github.com/yousefbassem95-lang/MIRA)** | **OSINT Intelligence Chatbot**<br>Advanced open-source intelligence gathering and analysis. | 🟢 **Active** |
-| **[Margo](https://github.com/yousefbassem95-lang/Margo)** | **Security Assessment Arsenal**<br>Offensive security and vulnerability scanning framework. | 🟢 **Active** |
-| **[Silvana](https://github.com/yousefbassem95-lang/Silvana)** | **Advanced Research Project**<br>Next-generation capabilities [Classified]. | 🟡 *In Dev* |
-| **[Saint Joseph](https://github.com/yousefbassem95-lang/saint_joseph)** | **Special Operations Tool**<br>Mission-critical utility [Classified]. | 🟡 *In Dev* |
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-<br>
-
-**made by J0J0M0J0**
-
-</div>
+| :--- | :--- | :---: |
+| **MIRA** | **OSINT Intelligence Chatbot**<br/>Advanced open-source intelligence gathering and analysis. | 🟢 `Active` |
+| **Margo** | **Security Assessment Arsenal**<br/>Offensive security and vulnerability scanning framework. | 🟢 `Active` |
+| **Silvana** | **Advanced Research Project**<br/>Next-generation capabilities [Classified]. | 🟡 `In Dev` |
+| **Saint Joseph** | **Special Operations Tool**<br/>Mission-critical utility [Classified]. | 🟡 `In Dev` |
