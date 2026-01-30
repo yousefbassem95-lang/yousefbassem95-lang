@@ -8,6 +8,8 @@ A constellation of elite tools designed for red teaming, auditing, and network d
 | ♂️ | **MARS** | AI Red Team Automation | 🟢 Public | `Active` |
 | 🌑 | **LUNA** | Automated WiFi Penetration | 🟢 Public | `Active` |
 | 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | `Building` |
+| ☀️ | **SOL** | Restricted Info | 🔴 Restricted | `In Dev` |
+| Терра | **TERRA** | Restricted Info | 🔴 Restricted | `In Dev` |
 > ⚠️ Some projects are classified and not for public use.
 
 ---
@@ -43,7 +45,11 @@ A collection of powerful and unique digital artifacts with extraordinary capabil
 
 Specialized solutions and fixes for complex digital ailments.
 
-*No projects currently listed.*
+| Symbol | Project | Description | Status |
+| :---: | :--- | :--- | :---: |
+| 💛 | **Yellow Elixir** | *No description available.* | `In Dev` |
+| 💚 | **Green Mold Cure** | *No description available.* | `In Dev` |
+| ✨ | **The Golden Branch** | *No description available.* | `In Dev` |
 
 ---
 
