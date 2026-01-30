@@ -1,4 +1,6 @@
-![Uploading WhatsApp Image 2026-01-31 at 12.04.08 AM.jpeg…]()
+<p align="center"><img src="https://raw.githubusercontent.com/yousefbassem95-lang/yousefbassem95-lang/main/Jupiter-icon.jpeg" alt="Jupiter Icon" width="250"></p>
+
+---
 
 # 🌌 The MilkyWay Galaxy Project
 ### "Advanced Cyber Warfare & Defense Systems"
