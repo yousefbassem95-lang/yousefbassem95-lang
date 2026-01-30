@@ -9,7 +9,7 @@ A constellation of elite tools designed for red teaming, auditing, and network d
 | 🌑 | **LUNA** | Automated WiFi Penetration | 🟢 Public | `Active` |
 | 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | `Building` |
 | ☀️ | **SOL** | Restricted Info | 🔴 Restricted | `In Dev` |
-| Терра | **TERRA** | Restricted Info | 🔴 Restricted | `In Dev` |
+| 🌎 | **TERRA** | Restricted Info | 🔴 Restricted | `In Dev` |
 > ⚠️ Some projects are classified and not for public use.
 
 ---
