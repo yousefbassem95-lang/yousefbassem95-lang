@@ -9,8 +9,8 @@ A constellation of elite tools designed for red teaming, auditing, and network d
 
 | Symbol | Project | Type | Classification | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| ♂️ | **MARS** | AI Red Team Automation | 🟢 Public | `Active` |
-| 🌑 | **LUNA** | Automated WiFi Penetration | 🟢 Public | `Active` |
+| ♂️ | [**MARS**](https://github.com/yousefbassem95-lang/MARS) | AI Red Team Automation | 🟢 Public | `Active` |
+| 🌑 | [**LUNA**](https://github.com/yousefbassem95-lang/LUNA) | Automated WiFi Penetration | 🟢 Public | `Active` |
 | 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | `Building` |
 | ☀️ | **SOL** | Restricted Info | 🔴 Restricted | `In Dev` |
 | 🌎 | **TERRA** | Restricted Info | 🔴 Restricted | `In Dev` |
@@ -38,6 +38,7 @@ A collection of powerful and unique digital artifacts with extraordinary capabil
 
 | Symbol | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
+| 🏭 | [**THE_FACTORY**](https://github.com/yousefbassem95-lang/THE_FACTORY) | **Advanced Payload Generation System**<br/>Modular AI-guided generation & management. | 🔴 `Private` |
 | 🐉 | **Dragon Talisman** | *No description available.* | `Under Development` |
 | 🎭 | **Blue Mask** | *No description available.* | `Under Development` |
 | 🔑 | **Red Key** | *No description available.* | `Under Development` |
@@ -64,7 +65,7 @@ Experimental projects, visual arts, and earthly utilities grown from code.
 
 | Symbol | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
-| 🍇 | **GRAPES** | **Neural AI ASCII Art Generator**<br/>High-fidelity image/video to ASCII converter. | 🟢 `Active` |
+| 🍇 | [**GRAPES**](https://github.com/yousefbassem95-lang/GRAPES) | **Neural AI ASCII Art Generator**<br/>High-fidelity image/video to ASCII converter. | 🟢 `Active` |
 
 ---
 
@@ -75,7 +76,7 @@ Public utilities and contributions to the open-source community.
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| **MIRA** | **OSINT Intelligence Chatbot**<br/>Advanced open-source intelligence gathering and analysis. | 🟢 `Active` |
-| **Margo** | **Security Assessment Arsenal**<br/>Offensive security and vulnerability scanning framework. | 🟢 `Active` |
+| [**MIRA**](https://github.com/yousefbassem95-lang/MIRA) | **OSINT Intelligence Chatbot**<br/>Advanced open-source intelligence gathering and analysis. | 🟢 `Active` |
+| [**Margo**](https://github.com/yousefbassem95-lang/Margo) | **Security Assessment Arsenal**<br/>Offensive security and vulnerability scanning framework. | 🟢 `Active` |
 | **Silvana** | **Advanced Research Project**<br/>Next-generation capabilities [Classified]. | 🟡 `In Dev` |
 | **Saint Joseph** | **Special Operations Tool**<br/>Mission-critical utility [Classified]. | 🟡 `In Dev` |
