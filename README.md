@@ -9,7 +9,7 @@ A constellation of elite tools designed for red teaming, auditing, and network d
 
 | Symbol | Project | Type | Classification | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| ♂️ | [**MARS**](https://github.com/yousefbassem95-lang/MARS-AI) | AI Red Team Automation | 🔴 Private | `Active` |
+| ♂️ | [**MARS**](https://github.com/yousefbassem95-lang/MARS) | AI Red Team Automation | 🟢 Public | `Active` |
 | 🌑 | [**LUNA**](https://github.com/yousefbassem95-lang/LUNA) | Automated WiFi Penetration | 🟢 Public | `Active` |
 | 🏹 | **ORION** | Hunter/Killer C2 Infrastructure | 🟡 In Dev | `Building` |
 | ☀️ | **SOL** | Restricted Info | 🔴 Restricted | `In Dev` |
@@ -25,6 +25,7 @@ Architecting the next generation of artificial intelligence and cognitive system
 
 | Symbol | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
+| ♂️ | [**MARS-AI**](https://github.com/yousefbassem95-lang/MARS-AI) | **Autonomous Red Team AI Agent**<br/>Advanced reconnaissance and systemic exploitation. | 🔴 `Private` |
 | 🪐 | **Jupiter** | *No description available.* | `Under Development` |
 | 🔱 | **Neptune** | *No description available.* | `Under Development` |
 | 💀 | **Pluto** | *No description available.* | `Under Development` |
