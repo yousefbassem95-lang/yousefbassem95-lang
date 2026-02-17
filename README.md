@@ -54,7 +54,7 @@ Specialized solutions and fixes for complex digital ailments.
 | Symbol | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
 | 💛 | **Yellow Elixir** | *No description available.* | `In Dev` |
-| 💚 | **Green Mold Cure** | *No description available.* | `In Dev` |
+| 🦠 | [**Green Mold Cure**](https://github.com/yousefbassem95-lang/GREEN-MOLD) | **Local AI Antivirus**<br/>Threat correlation & campaign detection. | 🟢 `Active` |
 | ✨ | **The Golden Branch** | *No description available.* | `In Dev` |
 
 ---
