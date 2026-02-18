@@ -77,6 +77,7 @@ Public utilities and contributions to the open-source community.
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
+| [**SEVE**](https://github.com/yousefbassem95-lang/SEVE) | **Safe Effective Vacuum Execution**<br/>Hardened CLI suite for AI-assisted development with zero-egress security and memory-safe implementation. | 🟢 `Active` |
 | [**MIRA**](https://github.com/yousefbassem95-lang/MIRA) | **OSINT Intelligence Chatbot**<br/>Advanced open-source intelligence gathering and analysis. | 🟢 `Active` |
 | [**Margo**](https://github.com/yousefbassem95-lang/Margo) | **Security Assessment Arsenal**<br/>Offensive security and vulnerability scanning framework. | 🟢 `Active` |
 | [**Silvana**](https://github.com/yousefbassem95-lang/Silvana) | **Advanced Research Project**<br/>Next-generation capabilities [Classified]. | 🟡 `In Dev` |
