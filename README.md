@@ -25,7 +25,7 @@ Architecting the next generation of artificial intelligence and cognitive system
 
 | Symbol | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
-| ♂️ | [**MARS-AI**](https://github.com/yousefbassem95-lang/MARS-AI) | **Autonomous Red Team AI Agent**<br/>Advanced reconnaissance and systemic exploitation. | 🔴 `Private` |
+| ♂️ | [**MARS-AI**](https://github.com/yousefbassem95-lang/MARS-AI) | **Autonomous Red Team AI Agent**<br/>Advanced reconnaissance and systemic exploitation. | 🟢 Public |
 | 🪐 | **Jupiter** | *No description available.* | `Under Development` |
 | 🔱 | **Neptune** | *No description available.* | `Under Development` |
 | 💀 | **Pluto** | *No description available.* | `Under Development` |
